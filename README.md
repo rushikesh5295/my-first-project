@@ -1,1 +1,1 @@
-# my-first-priject
+# my-first-project
